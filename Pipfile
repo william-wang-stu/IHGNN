@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+python-igraph = "*"
+gensim = "==3.8.3"
+scikit-learn = "*"
+ipykernel = "*"
+pandas = "*"
+pyldavis = "*"
+matplotlib = "*"
+seaborn = "*"
+tensorboard-logger = "*"
+dgl = "*"
+tensorboard = "*"
+numpy = "==1.23"
+bertopic = "*"
+tensorflow = "*"
+emoji = "*"
+torch-geometric = "*"
+openai = "*"
+protobuf = "==3.20.0"
+
+[dev-packages]
+torch-tb-profiler = "*"
+
+[requires]
+python_version = "3.8"

@@ -1,0 +1,11 @@
+*.txt
+log/
+__pycache__
+nohup.out
+*.sh
+*.pkl
+*.p
+*.ini
+test*.py
+*.png
+events.out.tfevents.*
