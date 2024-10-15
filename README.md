@@ -1,4 +1,4 @@
-# LLM-aided Heterogeneous Diffusion Dynamical Graph Neural Networks for Cascade Prediction on Social Networks (NeurIPS 2024)
+# LLM-aided Heterogeneous Diffusion Dynamical Graph Neural Networks for Cascade Prediction on Social Networks (WWW 2024)
 
 This repository is the official implementation of "LLM-aided Heterogeneous Diffusion Dynamical Graph Neural Networks for Cascade Prediction on Social Networks". 
 
